@@ -1,0 +1,15 @@
+1.import pandas
+# pip install pandas
+2.import pydub
+# pip install pydub
+3. import pyaudio
+# pip install pyaudio
+4. import gTTS
+# pip install gTTs
+
+
+1.This program gives a announcement file in a music format as output for eg 'train_no,audio_no'.
+2.Enter the data in announcement.xlsx file and save it.
+3.Run the program it will generate an audio file in project file.
+4.On interpreting the program,The python console will print the no of data entered in the announcement.xlsx file and generate the skeleton file.
+5.Go into project file on file explorer and access the generated audio file which is the output of total program. 
